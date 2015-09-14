@@ -11,8 +11,8 @@
 
     <Button
         android:layout_width="100dp"
-        android:layout_height="match_parent"
-        android:text="a b c"
+        android:layout_height="200dp"
+        android:text="Button"
         />
 
 </LinearLayout>
