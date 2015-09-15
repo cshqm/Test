@@ -15,4 +15,9 @@
         android:text="Button"
         />
 
+    <EditText
+        android:layout_width="100dp"
+        android:layout_height="200dp"
+        android:text="Button"
+        />
 </LinearLayout>
